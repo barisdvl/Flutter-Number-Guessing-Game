@@ -42,7 +42,7 @@ class _GuessScreenState extends State<GuessScreen> {
                   fontWeight: FontWeight.bold),
             ),
             Text(
-              "Yardım : $guidance",
+              "Hint : $guidance",
               style: const TextStyle(
                   color: Colors.deepOrangeAccent,
                   fontSize: 20.0,
